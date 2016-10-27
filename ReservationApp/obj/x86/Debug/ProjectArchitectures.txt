@@ -1,1 +1,1 @@
-C:\Users\Redo\Documents\Visual Studio 2015\Projects\ReservationApp\ReservationApp\ReservationApp.csproj;x86
+C:\Users\rismail2\Documents\GitHub\ReservationApp\ReservationApp\ReservationApp.csproj;x86
